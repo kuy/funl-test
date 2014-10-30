@@ -12,7 +12,7 @@ In addition to this, `funl` has 'post-filter' to process output from peco/percol
 
 ## Demo
 
-WIP
+WIP WIP
 
 
 ## Requirements
