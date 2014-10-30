@@ -1,8 +1,8 @@
 funl [![Build Status](https://travis-ci.org/kuy/funl.svg?branch=master)](https://travis-ci.org/kuy/funl)
 ====
 
-
 peco/percol powered interactive placeholders in shell environment.
+
 
 ## Description
 
